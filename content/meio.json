@@ -1,5 +1,6 @@
 {
     "title": "Pistas na Cidade",
     "text": "A carta leva Max a um café antigo. O atendente reconhece o selo e diz para ele subir no sotão.",
-    "imageUrl": "https://raw.githubusercontent.com/rafaeliannini/Projeto-Backend/refs/heads/main/content/imagem-meio.png"
+    "imageUrl": "https://raw.githubusercontent.com/rafaeliannini/Projeto-Backend/refs/heads/main/content/imagem-meio.png",
+    "nextScene": "03_Meio"
 }

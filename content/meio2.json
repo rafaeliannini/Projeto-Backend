@@ -1,5 +1,6 @@
 {
     "title": "Um ultimo enigma",
     "text": "No sótão do café, Max encontra fotos de infância e uma frase que so ele saberia o que significava.",
-    "imageUrl": "https://raw.githubusercontent.com/rafaeliannini/Projeto-Backend/refs/heads/main/content/imagem-meio2.png"
+    "imageUrl": "https://raw.githubusercontent.com/rafaeliannini/Projeto-Backend/refs/heads/main/content/imagem-meio2.png",
+    "nextScene": "04_Meio"
 }

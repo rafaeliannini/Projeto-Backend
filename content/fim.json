@@ -1,5 +1,6 @@
 {
     "title": "Revelação",
     "text": "Escondido max encontra dinheiro e uma ultima carta de seu pai, dizendo suas ultimas e poderosas palavras.",
-    "imageUrl": "https://raw.githubusercontent.com/rafaeliannini/Projeto-Backend/refs/heads/main/content/imagem-fim.png"
+    "imageUrl": "https://raw.githubusercontent.com/rafaeliannini/Projeto-Backend/refs/heads/main/content/imagem-fim.png",
+    "nextScene": "01_Inicio"
 }
