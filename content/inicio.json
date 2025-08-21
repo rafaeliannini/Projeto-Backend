@@ -1,5 +1,6 @@
 {
-"title": "Um Encontro Inesperado",
-"body": "Num fim de tarde chuvoso, Max encontra uma carta misteriosa na porta...",
-"imageUrl": "https://raw.githubusercontent.com/SEU_USUARIO/mini-vn-conteudo/main/content/img/inicio.png"
+    "title": "Um Encontro Inesperado",
+    "text": "Num fim de tarde chuvoso, Max encontra uma carta misteriosa na porta...",
+    "button-text": "Próximo",
+    "imageUrl": "https://raw.githubusercontent.com/SEU_USUARIO/mini-vn-conteudo/main/content/img/inicio.png"
 }
